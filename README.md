@@ -1,14 +1,15 @@
 ### Hi there 👋 I'm Aneta.
 
 Software knoledge and future intentions:
-- Currently studying Java Web Development in SoftUni
-- Also I have studied Python Web Development in SoftUni
+- Currently studying Java Web Development at SoftUni
+- Also I have studied Python Web Development at SoftUni
 - Strong willing to learn more and more every day
+- Continue my Java Web Development education at SoftUni
  
 Hobbies:
 - Trying to learn new things every day
 - Books, music and movies
-- I like to grow plants
+- Like to grow plants
 - Photography
 - Traveling
 - Cats lover
